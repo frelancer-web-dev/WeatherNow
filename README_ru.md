@@ -14,7 +14,7 @@
 
 ## 🚀 Демо
 
-[Живое демо]([https://your-app.vercel.app](https://weather-now-demo.vercel.app/)) 
+[Живое демо]([https://weather-now-demo.vercel.app/])
 
 ## 🛠️ Технологии
 
