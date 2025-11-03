@@ -14,8 +14,7 @@ A minimalist weather widget with theme switching and multilingual support.
 
 ## 🚀 Demo
 
-[Live Demo]([https://your-app.vercel.app](https://weather-now-demo.vercel.app/)
-
+[Live Demo]([https://weather-now-demo.vercel.app/])
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 18, Vanilla CSS
